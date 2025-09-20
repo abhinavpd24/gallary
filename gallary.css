@@ -1,0 +1,23 @@
+img{
+    width: 300px;
+    border: 2px solid red;
+    border-radius: 30px;
+    margin: 10px;
+    opacity: 0.6;
+
+}
+img:hover{
+    opacity: 1;
+}
+.flexcontainer{
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 1;
+} 
+h1{
+    background-color:blueviolet;
+    color: white;
+    text-align: center;
+    border: 1px solid red;
+
+}
